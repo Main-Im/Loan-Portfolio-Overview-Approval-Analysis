@@ -21,6 +21,10 @@ The final output is an interactive Power BI dashboard that provides a clear, exe
 
 ## 2. Dataset Summary
 
+This project uses a **synthetic loan application dataset** sourced from Kaggle. 
+
+https://www.kaggle.com/datasets/parthpatel2130/realistic-loan-approval-dataset-us-and-canada
+
 -Rows: 50,000
 
 -Columns: 20
